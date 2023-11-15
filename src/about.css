@@ -1,0 +1,22 @@
+header {
+    text-align: center;
+    padding: 20px;
+
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+#myPara{
+    word-wrap: break-word;
+}
