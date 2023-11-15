@@ -65,7 +65,7 @@ export default function Text(props) {
         Summary
       </h2>
       <p>
-        Your text has {text1.length} character and {text1.split(" ").length}{" "}
+        Your text has {text1.length} characters and {text1.split(" ").length}{" "}
         words
       </p>
       <h2
